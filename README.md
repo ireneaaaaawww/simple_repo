@@ -8,8 +8,9 @@
  19
 
 # Hobbies
- - Listen to musics
- - Play the piano
+ - Sleep
+ - Eat
  - Surf the internet
+ - Listen to musics
 
-I love Python! Python is **cool**!
+# I love Python! Python is **cool**!
