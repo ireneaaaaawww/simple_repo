@@ -1,6 +1,6 @@
-# simple_repo
- a simple repo
+# Yayun Liu
+ A short description of myself
 
 
- a hahahahahaha!
+# HAHA!
  it is me again!
